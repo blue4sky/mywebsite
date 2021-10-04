@@ -615,16 +615,19 @@ img{
 
 .projects__img{
     width: 265px;
+    height: 200px;
     border-radius: .5rem;
     justify-self: center;
 }
 
 .projects__title{
+    text-align: center;
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-0-5);
 }
 
 .projects__description{
+    text-align: center;
     margin-bottom: var(--mb-0-75);
 }
 
